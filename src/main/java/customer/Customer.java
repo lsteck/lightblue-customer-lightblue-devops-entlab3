@@ -12,13 +12,13 @@ public class Customer {
 		return _id;
 	}
 	public void setId(String id) {
-		this._id = id
+		this._id = id;
 	}
 	public String getRev() {
 		return _rev;
 	}
 	public void setRev(String rev) {
-		this._rev = rev
+		this._rev = rev;
 	}
 	public String getUsername() {
 		return username;
