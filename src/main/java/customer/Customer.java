@@ -10,10 +10,10 @@ public class Customer {
 	private String email;
 	private String imageUrl;
 	
-	public String getId() {
+	public String getCustomerId() {
 		return _id;
 	}
-	public void setId(String id) {
+	public void setCustomerId(String id) {
 		this._id = id;
 	}
 	public String getRev() {
